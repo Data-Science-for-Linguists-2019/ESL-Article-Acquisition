@@ -19,8 +19,8 @@ The corpus is publicly available for free download (see below), though no licens
 I think I can provide a few samples of the data, so I'll pick a few texts and images for each level to put in a data sample folder (NOT DONE YET AS OF 11:00 AM 2019.02.21!).
 
 ### Links:
-[BuiD Arabic Learner Corpus](buid.ac.ae/balc) (webpage with information on corpus and download link)
-[exploring_balc](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/exploring_balc.ipynb) (exploration phase)
-[duplicated_files](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/duplicated_files.pickle) (pickle file from exploring_balc)
-[clean_files](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/clean_files.pickle) (pickle file from exploring_balc)
-[BALC_clean](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) (acquiring & cleaning, focusing on CEPA files)
+- [BuiD Arabic Learner Corpus](http://www.buid.ac.ae/balc) (webpage with information on corpus and download link)
+- [exploring_balc](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/exploring_balc.ipynb) (exploration phase)
+- [duplicated_files](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/duplicated_files.pickle) (pickle file from exploring_balc)
+- [clean_files](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/clean_files.pickle) (pickle file from exploring_balc)
+- [BALC_clean](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) (acquiring & cleaning, focusing on CEPA files)
