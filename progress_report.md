@@ -25,3 +25,8 @@ I think I can provide a few samples of the data, so I'll pick a few texts and im
 - [data_samples](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/tree/master/data_samples) (1 sample text from each level of the six proficiency levels for CEPA texts)
 - [duplicated_files](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/duplicated_files.pickle) (pickle file from exploring_balc)
 - [clean_files](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/clean_files.pickle) (pickle file from exploring_balc)
+
+## 2: PROGRESS REPORT 2 (2019.03.18 // February 18, 2019)
+### Summary:
+
+I made updates to the BALC_cean jupyter notebook file, adding lemmatization and part of speech tagging, and wrote out two .csv files: the top 3000 lemmas, and cepa_df.
