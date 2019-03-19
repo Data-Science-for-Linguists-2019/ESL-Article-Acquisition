@@ -28,5 +28,10 @@ I think I can provide a few samples of the data, so I'll pick a few texts and im
 
 ## 2: PROGRESS REPORT 2 (2019.03.18 // February 18, 2019)
 ### Summary:
+I made updates to the __existing__ [BALC_cean](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) jupyter notebook file, adding lemmatization and part of speech tagging. I  wrote out two .csv files to the private data folder, not pushed my GitHub repository. These csv files contain the top 3000 lemmas from the CEPA files (throwing out pronouns and punctuation) and cepa_df in its entirety. These were not shared in the public repository, as the
 
-I made updates to the BALC_cean jupyter notebook file, adding lemmatization and part of speech tagging, and wrote out two .csv files: the top 3000 lemmas, and cepa_df.
+I began a __new__ file, [prep_data_analysis](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/prep_data_analysis.ipynb), that compiles the CEPA lemma list and the PELIC lemma lists in order to find mutual lemmas across corpora. Using this list of mutual lemmas, I picked six count and mass nouns to analyze moving forward.
+
+### Links:
+- [BALC_clean](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) (acquiring & cleaning, focusing on CEPA files)
+- [prep_data_analysis](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/prep_data_analysis.ipynb)
