@@ -43,3 +43,26 @@ I decided to license my repository under the Creative Commons Attribution Share 
 - [BALC_clean](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) (acquiring & cleaning, focusing on CEPA files)
 - [prep_data_analysis](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/prep_data_analysis.ipynb)
 - [PELIC_data](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/PELIC_data.ipynb)
+
+## 3: PROGRESS REPORT 3 (2019.04.09 // April 9, 2019)
+### Summary:
+
+I had to repick targets nouns, as there were issues with the original targets:
+- Some nouns did not occur at all in the Korean and Spanish data
+- Some nouns did not occur in the lower levels of BALC (levels 1, 2) -- eventually discarded anyway, as there are very few low levels of Arabic and Spanish speakers in PELIC.
+
+New targets were chosen for analysis, but there were limitations on finding enough speakers for each word in each level for each language and corpus, so the sample size was reduced to just one person. I am planning on doing analysis on the full essays  of these samples, but at current, will examine the distribution of articles for the specified count vs. mass nouns.
+
+BALC_clean has been updated yet again: I have added an additional measure of lexical complexity, Guiraud's R. This takes token type divided by the square root of total token count, and is a better control for text length. I also added a new images folder, saving the images from BALC_clean.
+
+Analysis_1.ipynb and summary.md have been created in the new folder, analysis.
+
+### Links:
+- [BALC_clean](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) (updates to cepa_df with new lexical diversity measure, writing images out to PNG files)
+- [image folder](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/tree/master/images) (images of pictures created by BALC_clean, basic stats from PELIC and BALC corpora)
+- [prep_data_analysis](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/prep_data_analysis.ipynb) (updates to picking targets, made new csv files)
+- [chosen_targets_new.csv](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/chosen_targets_new.csv) (new targets, found in all levels of interest for all languages in both corpora -- compare with [chosen_targets](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/chosen_targets.csv))
+- [essays for analysis from BALC](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/data/balc_targets.csv)
+  - [obsolete essays, based off of original targets and _not_ current targets](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/data/cepa_samples.csv)
+
+- [summary.md](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/analysis/summary.md) (a markdown file for summaries and conclusions of analyses performed in jupyter notebooks)
