@@ -64,5 +64,5 @@ Analysis_1.ipynb and summary.md have been created in the new folder, analysis.
 - [chosen_targets_new.csv](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/chosen_targets_new.csv) (new targets, found in all levels of interest for all languages in both corpora -- compare with [chosen_targets](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/chosen_targets.csv))
 - [essays for analysis from BALC](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/data/balc_targets.csv)
   - [obsolete essays, based off of original targets and _not_ current targets](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/data/cepa_samples.csv)
-
+- [analysis_1.ipynb](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/analysis/analysis_1.ipynb) (jupyter notebook with analyses and code)
 - [summary.md](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/analysis/summary.md) (a markdown file for summaries and conclusions of analyses performed in jupyter notebooks)
