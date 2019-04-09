@@ -57,6 +57,8 @@ BALC_clean has been updated yet again: I have added an additional measure of lex
 
 Analysis_1.ipynb and summary.md have been created in the new folder, analysis.
 
+I need to do a lot more analysis than I currently have done. I don't think looking at the specific targets will actually be all that interesting or informative, so I'm going to expand on what I have done so far.
+
 ### Links:
 - [BALC_clean](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) (updates to cepa_df with new lexical diversity measure, writing images out to PNG files)
 - [image folder](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/tree/master/images) (images of pictures created by BALC_clean, basic stats from PELIC and BALC corpora)
