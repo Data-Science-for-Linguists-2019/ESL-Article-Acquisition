@@ -15,7 +15,7 @@ English article acquisition is notoriously difficult for non-native English lear
 
 This project investigates the acquisition of English articles by learners of three different first languages: Spanish ([+art] language with definite, indefinite, and zero articles), Korean ([-art] language, meaning it lacks any overt article system), and Arabic ([+art] language with definite and zero articles but no indefinite article).
 
-The corpora used for this project are be the [BuiD Arabic Learner Corpus](http://www.buid.ac.ae/balc) and the [Pitt ELI Corpus](https://github.com/ELI-Data-Mining-Group/Pitt-ELI-Corpus).
+The corpora used for this project are the [BuiD Arabic Learner Corpus](http://www.buid.ac.ae/balc) and the [Pitt ELI Corpus](https://github.com/ELI-Data-Mining-Group/Pitt-ELI-Corpus).
 
 ## Directory
 
