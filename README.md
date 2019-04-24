@@ -4,7 +4,9 @@ This is Elena's term project. An analysis on how non-native English speakers acq
 
 ## Project Info
 Title: English as a Second Language (ESL) Article Acquisition
+
 By: Elena Cimino (e.cimino@pitt.edu)
+
 Date: 2019.04.26
 
 ## Brief Project Summary
