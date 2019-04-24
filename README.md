@@ -32,13 +32,16 @@ The corpora used for this project are the [BuiD Arabic Learner Corpus](http://ww
 - [data_samples](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/tree/master/data_samples): 6 sample CEPA texts from the BALC corpus, 1 from each level (1-6)
 - [data](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/tree/master/data): CSV files of samples pulled from the BALC corpus for analysis
 - [analysis](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/tree/master/analysis): a hub for the qualitative and quantitative analysis for this project
+- [archive](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/tree/master/archive): a hub for old code and files that I did not end up using or were for testing purposes
 
 ### Code and notebooks:
-- [exploring_balc.ipynb](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/exploring_balc.ipynb) / [nbviewer version](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/exploring_balc.ipynb)
+- [exploring_balc.ipynb](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/exploring_balc.ipynb) || [nbviewer version](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/exploring_balc.ipynb)
   - Exploring the BALC corpus
-- [balc_clean.ipynb](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) / [nbviewer version](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb)
+- [balc_clean.ipynb](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb) || [nbviewer version](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/BALC_clean.ipynb)
   - Processing and reformatting files from BALC for my needs
-- [pelic_data.ipynb](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/PELIC_data.ipynb) / [nbviewer version](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/PELIC_data.ipynb)
+- [exploring_spaCy.ipynb](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/exploring_spaCy.ipynb) || [nbviewer version](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/exploring_spaCy.ipynb)
+  - Exploring the Python library spaCy a bit and comparing its tokenizer and lemmatizer to NLTK's
+- [pelic_data.ipynb](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/PELIC_data.ipynb) || [nbviewer version](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/exploratory-analysis/PELIC_data.ipynb)
   - Doing some exploration with the PELIC data and targeting the three L1s I need (Arabic, Spanish, Korean)
 
 ## License
