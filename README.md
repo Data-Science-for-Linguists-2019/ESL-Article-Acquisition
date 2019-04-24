@@ -23,7 +23,7 @@ The corpora used for this project are be the [BuiD Arabic Learner Corpus](http:/
 - [Project Plan](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/project_plan.md): a description of the dataset and my initial project plan
 - [Progress Report](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/progress_report.md): updates on my project throughout the term
 - [Guestbook](https://github.com/Data-Science-for-Linguists-2019/Class-Plaza/blob/master/guestbooks/guestbook_elena.md): a guestbook for comments, questions, and suggestions
-- [Project Presentation](): a pdf version of my final project presentation _(to be uploaded)_
+- [Project Presentation](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/LING2340_Cimino_ESLPresentation.pdf): a pdf version of my final project presentation
 - [Final Report](): an in-depth explanation of my project, with background information _(to be uploaded)_
 
 ### Folders:
