@@ -25,6 +25,7 @@ The corpora used for this project are the [BuiD Arabic Learner Corpus](http://ww
 - [Guestbook](https://github.com/Data-Science-for-Linguists-2019/Class-Plaza/blob/master/guestbooks/guestbook_elena.md): a guestbook for comments, questions, and suggestions
 - [Project Presentation](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/LING2340_Cimino_ESLPresentation.pdf): a pdf version of my final project presentation
 - [Final Report](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/final_report.md): an in-depth explanation of my project, with background information
+- [Quantitative Analysis](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/analysis/quantitative_analysis.ipynb) || [nbviewer version](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/blob/master/analysis/quantitative_analysis.ipynb), where I did some quantitative analysis
 
 ### Folders:
 - [exploratory-analysis](https://github.com/Data-Science-for-Linguists-2019/ESL-Article-Acquisition/tree/master/exploratory-analysis): some initial exploring and processing that I undertook
